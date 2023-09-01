@@ -16,8 +16,8 @@ export default function Header() {
                 </button>
 
                 <nav className="hidden md:flex">
-                    <a href="#" className="text-white mr-4 text-black">Log in</a>
-                    <a href="#" className="text-white text-black">Register</a>
+                    <a href="#" className="text-black mr-4">Log in</a>
+                    <a href="#" className="text-black">Register</a>
                 </nav>
 
                 <div className="md:hidden">
@@ -41,8 +41,8 @@ export default function Header() {
                     X INMOBALIZE
                 </button>
                 <nav className="hidden md:flex">
-                    <a href="#" className="text-white mr-4 text-black">Log in</a>
-                    <a href="#" className="text-white text-black">Register</a>
+                    <a href="#" className="mr-4 text-black">Log in</a>
+                    <a href="#" className="text-black">Register</a>
                 </nav>
                 </div>
 

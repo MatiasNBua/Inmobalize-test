@@ -94,7 +94,7 @@ const renderImages = () => {
           <p className="text-white border-white border-t-2 ">Inicio de Renta: {item.inicioRenta}</p>
           <p className="text-white border-white border-t-2 border-b-2 ">Rentabilidad Anual: {item.rentabilidadAnual} %</p>
         
-        <button className="bg-amber-200 py-4 px-6 text-black uppercase rounded-lg w-4/5 xl:w-1/2 font-medium">Ver Proyecto</button>
+        <button className="bg-amber-200 text-black uppercase rounded-lg w-4/5 xl:w-1/2 font-medium">Ver Proyecto</button>
         </div>
         
       </div>
@@ -106,7 +106,7 @@ const renderImages = () => {
       <div className="flex overflow-hidden">
         {renderImages()}
       </div>
-      <div className="mt-4 flex justify-center">
+      <div className="mt-4 flex justify-center gap-4 p-4">
         <button
           className="bg-blue-500 text-white py-2 px-4 rounded-full mr-2"
           onClick={prevGroup}
