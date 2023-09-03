@@ -1,6 +1,4 @@
-# Inmobalize-test
-Readme: 
-## Prueba técnica: Desarrollo Frontend Developer
+# Inmobalize-test: Dev. Frontend
 
 ### Contexto:
 Durante mi rol como desarrollador web, llevé a cabo un proyecto que consistió en la maquetación y replicación de una página web preexistente. El objetivo principal de este proyecto fue recrear fielmente la apariencia y funcionalidad de la página original.
